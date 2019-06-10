@@ -1,3 +1,3 @@
 # testMVC
 
-# 手写实现Spring MVC核心代码（DI，IOC，MVC）
+## 实现Spring MVC核心组件（DI，IOC，MVC）
